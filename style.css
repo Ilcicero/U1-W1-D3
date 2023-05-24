@@ -1,5 +1,4 @@
 #logo{
-    
     width: 200px;
     margin: auto;
     display: block;
@@ -7,13 +6,10 @@
 
 header{
     text-align: center;
-    
 }
 
 img + p {
-    background: rgb(255,216,119);
-background: linear-gradient(0deg, rgba(255,216,119,1) 0%, rgb(229, 184, 22) 95%);
-    text-align: center;
+    background: linear-gradient(0deg, rgba(255,216,119,1) 0%, rgb(229, 184, 22) 95%);    text-align: center;
     height: 5vh;
     padding-top: 1em;
     color: rgba(0,77,76,255);
@@ -26,22 +22,26 @@ h5{
     margin-left: auto;
     margin-right: auto;
     width: 50vw; 
-   
 }
 
 #focaccia{
     border-radius: 10px;   
     width: 566;
+    background: rgb(27, 23, 23,);
+    -moz-box-shadow:5px 5px 2px #333333;
+    -webkit-box-shadow:5px 5px 2px #333333;
+    box-shadow:5px 5px 2px #333333;
+    }
     
-}
+
 footer  a {
     color: rgba(16,119,119,255);
 }
 
 main a {
-    
     color: rgba(16,119,119,255);
 }
+
 main > p {
 padding-left: 0.5em;   
 border: solid 0.1em white;
@@ -49,3 +49,15 @@ border-left-color: rgba(255,216,119,255);
 width: auto;
 color: rgba(181,70,15,255);
 }
+
+main h5 {
+    margin-top: 11px;
+}
+    
+  ul{
+    line-height: 2.5em;
+  }
+
+  hr{
+    border: 0.5px solid cyan;
+  }
