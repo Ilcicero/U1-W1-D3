@@ -11,11 +11,11 @@ header{
 }
 
 img + p {
-    border-top-width: 7px solid rgba(255,216,119,255);
-    background-color: rgba(253, 251, 241);
+    background: rgb(255,216,119);
+background: linear-gradient(0deg, rgba(255,216,119,1) 0%, rgb(229, 184, 22) 95%);
     text-align: center;
     height: 5vh;
-    padding-top: 2em;
+    padding-top: 1em;
     color: rgba(0,77,76,255);
 }
 h5{
