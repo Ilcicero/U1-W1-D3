@@ -4,10 +4,12 @@
     margin: auto;
     display: block;
 }
-
-
+hr{
+    
+}
 header{
     text-align: center;
+    display;
 }
 
 img + p {
@@ -31,17 +33,23 @@ h5{
 
 #focaccia{
     border-radius: 10px;   
-    width: auto;
+    width: 566;
+    
 }
 footer  a {
     color: rgba(16,119,119,255);
 }
+footer{
+    
+}
 main a {
+    
     color: rgba(16,119,119,255);
 }
 main > p {
 padding-left: 0.5em;   
 border: solid 0.1em white;
-border-left-color: rgba(181,70,15,255);
+border-left-color: rgba(255,216,119,255);
 width: auto;
+color: rgba(181,70,15,255);
 }
