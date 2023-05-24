@@ -4,12 +4,10 @@
     margin: auto;
     display: block;
 }
-hr{
-    
-}
+
 header{
     text-align: center;
-    display;
+    
 }
 
 img + p {
@@ -39,9 +37,7 @@ h5{
 footer  a {
     color: rgba(16,119,119,255);
 }
-footer{
-    
-}
+
 main a {
     
     color: rgba(16,119,119,255);
