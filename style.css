@@ -24,15 +24,14 @@ h5{
     width: 50vw; 
 }
 
-#focaccia{
+ #focaccia{
     border-radius: 10px;   
     width: 566;
     background: rgb(27, 23, 23,);
     -moz-box-shadow:5px 5px 2px #333333;
     -webkit-box-shadow:5px 5px 2px #333333;
     box-shadow:5px 5px 2px #333333;
-    }
-    
+    } 
 
 footer  a {
     color: rgba(16,119,119,255);
